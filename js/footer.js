@@ -72,7 +72,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
-                        <p>Copyright © 2024 - 2025 via NARA Develop by <a class="text-light" href="https://aeroer.live/" target="_blank"> Aeroer Live </a>. All Rights Reserved.</p>
+                        <p>Copyright © 2024 - 2026 via NARA Develop by <a class="text-light" href="https://aeroer.live/" target="_blank"> Aeroer Live </a>. All Rights Reserved.</p>
                     </div>
                     <div class="col-lg-5 col-md-12 align-self-center">
                         <ul class="icon-list-items inline-items justify-content-lg-end">
